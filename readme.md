@@ -1,5 +1,11 @@
 #JavaScript Primitives
 
+##Getting Started
+* Fork and clone this repository
+* Create a separate file for each exercise. This will make it easier to keep track of solutions
+  * It may also be beneficial to copy/paste any data structures provided
+* Write JavaScript code to obtain the data prompted by each question
+
 ## Exercises
 
 1.) Find the last name in the following array:
@@ -21,9 +27,9 @@ var friends = [
               ];
 ```
 
-2.) Sort the list of `friends` above.
+2.) Sort the list of `friends` above in alphabetical order.
 
-3.) There are a list of names in a string below. How could we sort them? Hint: use string and array methods.
+3.) There is a list of names in a string below. How could we sort them alphabetically? Hint: use string and array methods.
 
 ```js
 var friends = "Moe,Larry,Curly,Jane,Emma,Elizabeth,Elinor,Mary,Darcy,Grey,Lydia,Harriet";
@@ -31,7 +37,7 @@ var friends = "Moe,Larry,Curly,Jane,Emma,Elizabeth,Elinor,Mary,Darcy,Grey,Lydia,
 
 4.) List all the `friends` above in reverse alphabetical order.
 
-5.) We have two lists of friends below:
+5.) We have two lists of friends below. Combine the two arrays into one array, then sort them alphabetically.
 
 ```js
 var myFriends = [
@@ -60,10 +66,8 @@ var yourFriends = [
                   ];
 ```
 
-we need to combine them into one list and sort them.
 
-6.) I have a list of favorite foods below. If `Popcorn` is my favorite food and `Potato chips` my second favorite, then how would you find the rank of another food. Try `Pho`.
-
+6.) I have a list of favorite foods below. If `Popcorn` is my favorite food and `Potato chips` my second favorite, then how would you find the rank of another food? Try finding the rank of `Pho`.
 
 ```js
 var foods = [
@@ -92,9 +96,9 @@ var foods = [
 
 7.) I made a mistake with my favorite foods. How can I find the index of `Donuts` and remove it? **(Hint: look up `splice`)**
 
-8.) My friends want to know what my `5`th to `10`th favorite foods are.
+8.) My friends want to know what my `5`th to `10`th favorite foods are. How would I find these foods?
 
-9.) How would you create an object that efficiently stored the following information:
+9.) How would you create an object that efficiently stored the following information? Hint: You only need one object.
 
 ```js
   'Moe' is 18
@@ -109,7 +113,6 @@ var foods = [
   'Grey' is 18
   'Lydia' is 24
   'Harriet' is 18
-
 ```
 
 10.) **BONUS** - Here are a list of `ages`
@@ -118,4 +121,4 @@ var foods = [
 var ages = [83, 53, 37, 29, 60, 30, 66, 19, 59, 41, 9, 64, 19, 80, 24, 53, 70, 1, 53, 40, 92, 4, 71, 65, 8, 2, 51, 80, 94, 37, 80, 64, 19, 6, 14];
 
 ```
-find the `median` age. The median is the number that is halfway into the set. To remember the definition of a median, just think of the median of a road, which is the middlemost part of the road.
+find the `median` age. The median is the number that is halfway into the sorted set. To remember the definition of a median, just think of the median of a road, which is the middlemost part of the road.
