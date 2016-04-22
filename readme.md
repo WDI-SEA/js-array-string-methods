@@ -5,6 +5,11 @@
 * Create a separate file for each exercise. This will make it easier to keep track of solutions
   * It may also be beneficial to copy/paste any data structures provided
 * Write JavaScript code to obtain the data prompted by each question
+* Test each file by running it in Node. Example:
+
+```
+node nameOfFile.js
+```
 
 ## Exercises
 
