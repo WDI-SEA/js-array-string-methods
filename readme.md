@@ -20,19 +20,19 @@ node js/name-of-file.js
 
 ```js
 var friends = [
-                'Moe',
-                'Larry',
-                'Curly',
-                'Jane',
-                'Emma',
-                'Elizabeth',
-                'Elinor',
-                'Mary',
-                'Darcy',
-                'Grey',
-                'Lydia',
-                'Harriet'
-              ];
+  'Moe',
+  'Larry',
+  'Curly',
+  'Jane',
+  'Emma',
+  'Elizabeth',
+  'Elinor',
+  'Mary',
+  'Darcy',
+  'Grey',
+  'Lydia',
+  'Harriet'
+];
 ```
 
 2.) Sort the list of `friends` above in alphabetical order.
@@ -40,7 +40,7 @@ var friends = [
 3.) There is a list of names in a string below. How could we sort them alphabetically? Hint: use string and array methods.
 
 ```js
-var friends = "Moe,Larry,Curly,Jane,Emma,Elizabeth,Elinor,Mary,Darcy,Grey,Lydia,Harriet";
+var friends = 'Moe,Larry,Curly,Jane,Emma,Elizabeth,Elinor,Mary,Darcy,Grey,Lydia,Harriet';
 ```
 
 4.) List all the `friends` above in reverse alphabetical order.
@@ -49,29 +49,29 @@ var friends = "Moe,Larry,Curly,Jane,Emma,Elizabeth,Elinor,Mary,Darcy,Grey,Lydia,
 
 ```js
 var myFriends = [
-                  'Rickon',
-                  'Meera',
-                  'Hodor',
-                  'Jojen',
-                  'Osha',
-                  'Rickard',
-                  'Maester',
-                  'Rodrik',
-                  'Jory',
-                  'Septa',
-                  'Jon'
-                ];
+  'Rickon',
+  'Meera',
+  'Hodor',
+  'Jojen',
+  'Osha',
+  'Rickard',
+  'Maester',
+  'Rodrik',
+  'Jory',
+  'Septa',
+  'Jon'
+];
 
 var yourFriends = [
-                    'Bilbo',
-                    'Boromir',
-                    'Elrond',
-                    'Faramir',
-                    'Frodo',
-                    'Gandalf',
-                    'Legolas',
-                    'Pippin'
-                  ];
+  'Bilbo',
+  'Boromir',
+  'Elrond',
+  'Faramir',
+  'Frodo',
+  'Gandalf',
+  'Legolas',
+  'Pippin'
+];
 ```
 
 
@@ -79,26 +79,26 @@ var yourFriends = [
 
 ```js
 var foods = [
-              'Popcorn',
-              'Potato chips',
-              'Shrimp',
-              'Chicken rice',
-              'Poutine',
-              'Tacos',
-              'Toast',
-              'French Toast',
-              'Crab',
-              'Pho',
-              'Lasagna',
-              'Brownie',
-              'Lobster',
-              'Donuts',
-              'Ice cream',
-              'Hamburger',
-              'Sushi',
-              'Chocolate',
-              'Pizza'
-            ];
+  'Popcorn',
+  'Potato chips',
+  'Shrimp',
+  'Chicken rice',
+  'Poutine',
+  'Tacos',
+  'Toast',
+  'French Toast',
+  'Crab',
+  'Pho',
+  'Lasagna',
+  'Brownie',
+  'Lobster',
+  'Donuts',
+  'Ice cream',
+  'Hamburger',
+  'Sushi',
+  'Chocolate',
+  'Pizza'
+];
 ```
 
 
@@ -127,6 +127,5 @@ var foods = [
 
 ```js
 var ages = [83, 53, 37, 29, 60, 30, 66, 19, 59, 41, 9, 64, 19, 80, 24, 53, 70, 1, 53, 40, 92, 4, 71, 65, 8, 2, 51, 80, 94, 37, 80, 64, 19, 6, 14];
-
 ```
 find the `median` age. The median is the number that is halfway into the sorted set. To remember the definition of a median, just think of the median of a road, which is the middlemost part of the road.
