@@ -1,7 +1,7 @@
 {
-  "name": "TEMPLATE-js",
+  "name": "js-primitives",
   "scripts": {
-    "lint:js": "node_modules/eslint/bin/eslint.js src/js; exit 0"
+    "lint:js": "node_modules/eslint/bin/eslint.js js --fix; exit 0"
   },
   "author": "",
   "license": "MIT",
