@@ -1,6 +1,6 @@
-#JavaScript Primitives
+# JavaScript Primitives
 
-##Getting Started
+## Getting Started
 * Fork and clone this repository
 * Run `npm install` to install dependencies
 * Create a separate file for each exercise under `js`. This will make it easier to keep track of solutions
