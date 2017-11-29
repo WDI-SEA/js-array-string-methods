@@ -1,6 +1,6 @@
-#JavaScript Primitives
+# JavaScript Primitives
 
-##Getting Started
+## Getting Started
 * Fork and clone this repository
 * Run `npm install` to install dependencies
 * Create a separate file for each exercise under `js`. This will make it easier to keep track of solutions
@@ -11,8 +11,6 @@
 ```
 node js/name-of-file.js
 ```
-
-* Run the JS linter to verify that your code meets styling guidelines. You can run `npm run lint:js`
 
 ## Exercises
 
