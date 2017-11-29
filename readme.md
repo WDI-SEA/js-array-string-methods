@@ -104,21 +104,10 @@ var foods = [
 
 8.) My friends want to know what my `5`th to `10`th favorite foods are. How would I find these foods?
 
-9.) How would you create an object that efficiently stored the following information? Hint: You only need one object.
+9.) Change the word "Space" to the word "Spice".
 
-```js
-  'Moe' is 18
-  'Larry' is 19
-  'Curly' is 20
-  'Jane' is 20
-  'Emma' is 21
-  'Elizabeth' is 18
-  'Elinor' is 23
-  'Mary' is 25
-  'Darcy' is 24
-  'Grey' is 18
-  'Lydia' is 24
-  'Harriet' is 18
+```
+var word = "Space";
 ```
 
 10.) **BONUS** - Here are a list of `ages`
