@@ -25,3 +25,7 @@ var myFriends = [
 
   var combinedSortFriends = myFriends.concat(yourFriends).sort();
   console.log(combinedSortFriends);
+
+  //!if you add two array together it will become string
+  var friends = yourFriends + myFriends
+  console.log(typeof friends); // string

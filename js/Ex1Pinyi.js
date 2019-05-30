@@ -18,5 +18,5 @@ var friends = [
 console.log(friends[friends.length-1]);
 
 //(2) sort the friends list
-var sortFriends = friends.sort();
+var sortFriends = friends.sort(); //!not necessary, friends is also sorted.
 console.log(sortFriends);
