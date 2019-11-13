@@ -6,4 +6,4 @@ var sortedArray = splitList.sort();
 
 var sortedList = sortedArray.join(",");
 
-console.log(sortedList);
+console.log("The list of friends in aphabetical order is:", sortedList+".");

@@ -2,4 +2,4 @@ var word = "Space";
 
 word = "Spice";
 
-console.log(word);
+console.log("The word is", word+".");

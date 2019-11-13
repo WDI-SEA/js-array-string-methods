@@ -22,4 +22,4 @@ var foods = [
 
   var removedItem = foods.splice(foods.indexOf("Donuts"), 1);
 
-  console.log(foods);
+  console.log("The list of foods with Donuts removed is:", foods+".");

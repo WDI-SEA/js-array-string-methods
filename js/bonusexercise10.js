@@ -8,4 +8,4 @@ var sortedAges = ages.sort(function(a,b) {
 
 var median = ages[(numAges-1)/2];
 
-console.log(median);
+console.log("The median is", median+".");

@@ -8,4 +8,4 @@ var reverseArray = sortedArray.reverse();
 
 var sortedList = sortedArray.join(",");
 
-console.log(sortedList);
+console.log("The friends list in reverse alphabetical order is:", sortedList+".");

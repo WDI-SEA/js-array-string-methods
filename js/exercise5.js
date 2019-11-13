@@ -27,4 +27,4 @@ var myFriends = [
 
   var sortedFriends = ourFriends.sort();
 
-  console.log(sortedFriends);
+  console.log("The combined and alphabetically sorted array is:", sortedFriends+".");

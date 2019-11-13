@@ -15,4 +15,4 @@ var friends = [
 
   var sortedList = friends.sort();
 
-  console.log(sortedList);
+  console.log("Friends in alphabetical order is:", sortedList+".");
