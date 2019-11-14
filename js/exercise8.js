@@ -20,6 +20,6 @@ var foods = [
     'Pizza'
   ];
 
-  var favFoods = [foods[4],foods[9]];
+  var favFoods = foods.slice(4,9);
 
-  console.log("My 5th favorite food is", favFoods[0], "and my 10th favorite food is", favFoods[1]+".");
+  console.log("My 5th through 10th favorite foods are:", favFoods+".");
