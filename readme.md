@@ -1,6 +1,14 @@
 # JavaScript Primitives
 
-Do the following exercises in a [repl.it](https://repl.it/). Not sure how to do something? Practice your google fu, and use the debugging channel in slack!
+
+## Getting Started
+
+If this is assigned as a lab, you can skip this part! Just do it in a [repl.it](https://repl.it/)
+
+* Fork and clone this repository
+* Create a file in the `js` subdirectory named `pizza.js`
+* Write your solution in that file
+* Run the file by typing `node js/pizza.js`
 
 ## Exercises
 
