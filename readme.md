@@ -1,5 +1,8 @@
-# JavaScript Primitives
+# JavaScript Arrays
 
+## Prereqs:
+* Arrays
+* strings
 
 ## Getting Started
 
