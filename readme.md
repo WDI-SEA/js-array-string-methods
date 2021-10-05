@@ -1,8 +1,8 @@
 # JavaScript Arrays
 
 ## Prereqs:
-* Arrays
-* strings
+* arrays, array methods (not including iterators)
+* strings, (string methods)
 
 ## Getting Started
 
